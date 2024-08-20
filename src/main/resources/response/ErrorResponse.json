@@ -1,0 +1,5 @@
+{
+  "status": 400,
+  "message": "Video id does not correspond to the rent id given",
+  "timestamp": 1724163952286
+}

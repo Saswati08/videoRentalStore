@@ -1,0 +1,38 @@
+{
+  "requestId": "dd8da6e6-1916-48d1-b0f4-9d702d68c705",
+  "rentInfo": {
+    "videoList": [
+      {
+        "videoId": "26c0759d-5382-4558-b64a-8d48830c799e",
+        "days": 3
+      },
+      {
+        "videoId": "f9ee4529-a8ef-45a4-9657-c4eac41bcf50",
+        "days": 7
+      },
+      {
+        "videoId": "b4727dac-bf57-4eaf-9807-2850a595d489",
+        "days": 8
+      },
+      {
+        "videoId": "589dc4bd-2e94-47a3-a239-d492486e2e9f",
+        "days": 8
+      },
+      {
+        "videoId": "14a06205-db7e-445b-ab07-472f849f4ada",
+        "days": 5
+      }
+
+
+    ]
+  },
+  "returnInfo": {
+    "rentId": "29b06713-2ab2-4a6d-bcd6-37fae2172dcf",
+    "videoList":[
+      {"videoId": "26c0759d-5382-4558-b64a-8d48830c799e",
+        "days": 10
+      }
+    ]
+  }
+
+}

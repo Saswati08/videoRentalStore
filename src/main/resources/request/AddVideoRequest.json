@@ -1,0 +1,28 @@
+{
+  "videoList": [
+    {
+      "videoName": "Stree",
+      "videoType": "NEW_RELEASES"
+    },
+    {
+      "videoName": "Srikanth",
+      "videoType":"NEW_RELEASES"
+    },
+    {
+      "videoName": "Kal ho na ho",
+      "videoType":"REGULAR"
+    },
+    {
+      "videoName": "Rowdy Rathore",
+      "videoType": "REGULAR"
+    },
+    {
+      "videoName": "Shawshank Redemption",
+      "videoType": "OLD_RELEASES"
+    },
+    {
+      "videoName": "Mughal e Azam",
+      "videoType": "OLD_RELEASES"
+    }
+  ]
+}

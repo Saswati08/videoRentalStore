@@ -1,0 +1,15 @@
+spring:
+  application.name: video-rental-store
+  mvc:
+    enabled: true
+  server:
+    port: 8080
+
+logging.config: "classpath:logback.xml"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health, heapdump, threaddump, loggers
+      base-path: /

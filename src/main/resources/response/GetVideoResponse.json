@@ -1,0 +1,32 @@
+[
+  {
+    "videoId": "d0b8c1b8-afa7-43df-8e41-fde46a03783e",
+    "videoName": "Kal ho na ho",
+    "videoType": "REGULAR"
+  },
+  {
+    "videoId": "4b92b9f5-c0c0-4ec2-9d5f-71804d71209b",
+    "videoName": "Mughal e Azam",
+    "videoType": "OLD_RELEASES"
+  },
+  {
+    "videoId": "291d785d-ca76-4862-b5f6-b8149dd013a1",
+    "videoName": "Shawshank Redemption",
+    "videoType": "OLD_RELEASES"
+  },
+  {
+    "videoId": "22babeac-6ea4-4d24-ac17-db899e3f3b0d",
+    "videoName": "Stree",
+    "videoType": "NEW_RELEASES"
+  },
+  {
+    "videoId": "68d471a3-db20-423b-9535-b691e277f1c3",
+    "videoName": "Srikanth",
+    "videoType": "NEW_RELEASES"
+  },
+  {
+    "videoId": "2de891b6-3944-4b1f-a41f-00c3d69844ed",
+    "videoName": "Rowdy Rathore",
+    "videoType": "REGULAR"
+  }
+]
